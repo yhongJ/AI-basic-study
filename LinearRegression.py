@@ -6,7 +6,6 @@ import torch.optim as optim
 x = torch.tensor([[0], [1], [2], [3], [4], [5]], dtype = torch.float32)
 y = torch.tensor([[1], [3], [5], [7], [9], [11]], dtype = torch.float32)
 
-
 class Linear(nn.Module):
     def __init__(self):
         super().__init__()
