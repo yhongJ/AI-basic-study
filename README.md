@@ -12,6 +12,6 @@
 
 # References
 <https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002950874>
-<https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial.html> 
+<https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial.html>  
 <https://www.youtube.com/watch?v=k60oT_8lyFw&t=5436s>
  
