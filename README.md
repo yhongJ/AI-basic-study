@@ -9,7 +9,7 @@
 5. [Fashion MNIST 데이터셋 분류 모델 (CNN)](https://github.com/yhongJ/AI-basic-study/blob/main/FashionMNIST_CNN.py)
 6. [ResNet18 전이학습 모델(강아지/고양이 binary classification)](https://github.com/yhongJ/AI-basic-study/tree/main/transfer_ResNet18)
 7. [이름 출신지 분류 모델(RNN)](https://github.com/yhongJ/AI-basic-study/tree/main/name_classification)
-8. [이름 성별 분류 모델(RNN) (7번 변형, 미완성 (모델 성능 검증 코드))](https://github.com/yhongJ/AI-basic-study/tree/main/name_gender_classification)
+8. [이름 성별 분류 모델(RNN)](https://github.com/yhongJ/AI-basic-study/tree/main/name_gender_classification) - 7번 변형, 모델 성능 검증 파트 미완성
 # References
 <https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002950874>
 <https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial.html>  
