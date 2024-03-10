@@ -10,8 +10,10 @@
 6. [ResNet18 전이학습 모델(강아지/고양이 binary classification)](https://github.com/yhongJ/AI-basic-study/tree/main/transfer_ResNet18)
 7. [이름 출신지 분류 모델(RNN)](https://github.com/yhongJ/AI-basic-study/tree/main/name_classification)
 8. [이름 성별 분류 모델(RNN)](https://github.com/yhongJ/AI-basic-study/tree/main/name_gender_classification) - 7번 변형, 모델 성능 검증 파트 미완성
+9. [attention_is_all_you_need: transformer구현](https://github.com/yhongJ/AI-basic-study/blob/main/attention_is_all_you_need.py)
 # References
 <https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002950874>
 <https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial.html>  
 <https://www.youtube.com/watch?v=k60oT_8lyFw&t=5436s>  
-<https://archive.ics.uci.edu/dataset/591/gender+by+name> - 8번 데이터셋
+<https://archive.ics.uci.edu/dataset/591/gender+by+name> - 8번 데이터셋  
+<https://arxiv.org/abs/1706.03762>
