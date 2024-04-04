@@ -1,6 +1,7 @@
 import numpy as np
 import math
 
+
 T = 10000
 noise_schedule = np.linspace(0.0001, 0.02, T)
 alpha = 1 - noise_schedule
