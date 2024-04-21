@@ -18,5 +18,5 @@ pytorch를 이용한 기초적인 인공지능 개념/실습 공부
 [이름 출신지 분류 모델 설명 및 예시코드](https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial.html)  
 [8번 데이터셋](https://archive.ics.uci.edu/dataset/591/gender+by+name)   
 [attention_is_all_you_need 논문](https://arxiv.org/abs/1706.03762)  
-[머신러닝 교과서 파이토치편 서적](https://product.kyobobook.co.kr/detail/S000211513166)
+[머신러닝 교과서 파이토치편 서적](https://product.kyobobook.co.kr/detail/S000211513166)  
 [DDPM논문](https://arxiv.org/abs/2006.11239)
